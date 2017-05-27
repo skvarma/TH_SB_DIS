@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TH_SB_DIS</fullName>
+    <types>
+        <members>ProjectService</members>
+        <name>ConnectedApp</name>
+    </types>
+    <types>
+        <members>ProjectCalloutService</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Update_Opportunity-1</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>ProjectService</members>
+        <name>NamedCredential</name>
+    </types>
+    <version>39.0</version>
+</Package>
