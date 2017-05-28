@@ -43,7 +43,7 @@ global class ProjectCalloutService {
                 System.debug('Status code = ' + httpResponse.getStatusCode());
                 opp.StageName = 'Resubmit Project';
             } else{
-                system.debug('Response = ' + httpResponse.getBody());
+                system.debug('Response = ' + httpResponse.toString());
                 opp.StageName = 'Submitted Project';
             }
             update opp;

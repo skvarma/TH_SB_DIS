@@ -7,6 +7,9 @@
     </types>
     <types>
         <members>ProjectCalloutService</members>
+        <members>ProjectCalloutServiceMock</members>
+        <members>ProjectCalloutServiceMockFailure</members>
+        <members>ProjectCalloutServiceTest</members>
         <name>ApexClass</name>
     </types>
     <types>
