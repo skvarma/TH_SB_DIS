@@ -11,6 +11,7 @@
         <members>ProjectCalloutServiceMockFailure</members>
         <members>ProjectCalloutServiceTest</members>
         <members>ProjectRESTService</members>
+        <members>ProjectRESTServiceTest</members>
         <name>ApexClass</name>
     </types>
     <types>
