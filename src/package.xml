@@ -12,6 +12,10 @@
         <members>ProjectCalloutServiceTest</members>
         <members>ProjectRESTService</members>
         <members>ProjectRESTServiceTest</members>
+        <members>BillingCalloutService</members>
+        <members>BillingCalloutServiceMock</members>
+        <members>BillingCalloutServiceMockFailure</members>
+        <members>BillingCalloutServiceTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -29,6 +33,10 @@
     <types>
         <members>Opportunity-Opportunity Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>ProjectTrigger</members>
+        <name>ApexTrigger</name>
     </types>
     <version>39.0</version>
 </Package>
